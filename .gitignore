@@ -1,0 +1,14 @@
+# Data files
+data/
+*.csv
+
+# Saved models
+saved_models/
+saved_models_cls/
+*.pkl
+
+# Python cache and virtual environments
+__pycache__/
+venv/
+env/
+.env
