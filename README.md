@@ -1,6 +1,6 @@
 # ML Project: Steam Games Analysis & Prediction
 
-A robust Machine Learning pipeline for Steam games analysis, featuring advanced feature engineering, model tuning, and evaluation fo Regression and Classification tasks.
+A robust Machine Learning pipeline for Steam games analysis, featuring advanced feature engineering, model tuning, and evaluation for Regression and Classification tasks.
 
 ---
 
