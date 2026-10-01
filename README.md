@@ -1,6 +1,6 @@
 # ML Project: Steam Games Analysis & Prediction
 
-An end-to-end Machine Learning project featuring two distinct pipelines for **Regression** (predicting recommendation counts) and **Classification** (predicting game popularity tiers) based on Steam dataset attributes.
+A robust Machine Learning pipeline for Steam games analysis, featuring advanced feature engineering, model tuning, and evaluation fo Regression and Classification tasks.
 
 ---
 
